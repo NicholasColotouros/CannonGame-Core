@@ -4,11 +4,10 @@ One cannon fires cannonballs which use Euler integration while the other fires a
 Both cannons have wind resistance and are affected by the wind (represented by an arrow on screen).
 
 Controls:
-+------------+---------------+-----------------+
 
 |   ACTION   | Verlet Cannon |  Normal Cannon  |
 
-+------------+---------------+-----------------+
+|------------|---------------|-----------------|
 
 | Angle++    | W             | up arrow key    |
 
@@ -19,5 +18,3 @@ Controls:
 | Strength-- | A             | left arrow key  |
 
 | Fire       | tab	         | space		       |
-
-+------------+---------------+-----------------+
